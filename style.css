@@ -64,8 +64,7 @@ body {
   font-size: 20px;
   color: #fff;
   width: 160px;
-  margin-top: 60px;
-  margin-left: 16px;
+  margin-left: 25px;
 }
 #card #heart1 {
   -webkit-transform: rotate(180deg);
